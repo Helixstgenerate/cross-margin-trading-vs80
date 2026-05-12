@@ -1,4 +1,4 @@
-# 
+# automatic cross-margin trading bot | backtesting + webhook-support is the best cross-margin trading bot, featuring backtesting and webhook-support. Smart, fast, and optimized for
 
 
 
